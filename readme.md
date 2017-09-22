@@ -7,3 +7,5 @@
 * comment out line 1. uncomment line 2.
 * Jest will hang on `Determining test suites to run...`
 * Kill jest in command using `ctrl + C`
+
+Reference: https://github.com/facebook/jest/issues/4524
